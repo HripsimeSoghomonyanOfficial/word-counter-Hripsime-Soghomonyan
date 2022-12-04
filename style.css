@@ -10,10 +10,10 @@
   max-width: 1600px;
   margin: 50px auto;
   padding: 25px;
-  border: 1px solid #cccccc;
+  border: 1px solid grey;
   border-radius: 5px;
   line-height: 1.4;
-  background: rebeccapurple;
+  background: #9dc6ea;
   color: white;
 }
 
@@ -26,9 +26,9 @@
 
 .container__button {
   padding: 10px 20px;
-  background-color: darkcyan;
+  background-color: #9dc6ea;
   color: white;
-  border: 1px solid rebeccapurple;
+  border: 3px solid #grey;
   border-radius: 5px;
   outline: none;
   cursor: pointer;
